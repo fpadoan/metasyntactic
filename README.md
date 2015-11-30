@@ -1,4 +1,4 @@
-# metasyntactic NowPlaying
+# metasyntactic's NowPlaying iPhone App
 Automatically exported from code.google.com/p/metasyntactic.
 
 I do not claim ownership on any portion of the code in this repository.
